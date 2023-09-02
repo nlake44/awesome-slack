@@ -143,6 +143,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
 - [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
+- [haly](https://github.com/upmortem/slack-bot) - GPT powered chat bot for Slack
 
 ### Ruby
 
